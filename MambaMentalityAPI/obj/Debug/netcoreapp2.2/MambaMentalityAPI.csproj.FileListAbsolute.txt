@@ -1,0 +1,16 @@
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\bin\Debug\netcoreapp2.2\MambaMentalityAPI.deps.json
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\bin\Debug\netcoreapp2.2\MambaMentalityAPI.runtimeconfig.json
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\bin\Debug\netcoreapp2.2\MambaMentalityAPI.runtimeconfig.dev.json
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\bin\Debug\netcoreapp2.2\MambaMentalityAPI.dll
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\bin\Debug\netcoreapp2.2\MambaMentalityAPI.pdb
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\obj\Debug\netcoreapp2.2\MambaMentalityAPI.csprojAssemblyReference.cache
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\obj\Debug\netcoreapp2.2\MambaMentalityAPI.RazorAssemblyInfo.cache
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\obj\Debug\netcoreapp2.2\MambaMentalityAPI.RazorAssemblyInfo.cs
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\obj\Debug\netcoreapp2.2\MambaMentalityAPI.AssemblyInfoInputs.cache
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\obj\Debug\netcoreapp2.2\MambaMentalityAPI.AssemblyInfo.cs
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\obj\Debug\netcoreapp2.2\MambaMentalityAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\obj\Debug\netcoreapp2.2\MambaMentalityAPI.dll
+C:\Users\Jon\Documents\Projects\WIP\mamba-mentality\MambaMentalityAPI\obj\Debug\netcoreapp2.2\MambaMentalityAPI.pdb

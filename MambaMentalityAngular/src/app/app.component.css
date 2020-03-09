@@ -1,0 +1,122 @@
+.title{
+    width: 40%;
+    height: 5%;
+    padding-left: 2em;
+    text-align: left;
+    font: lighter 38px/46px Roboto;
+    font-size: 48px;
+    letter-spacing: 6.79px;
+    color: #3E0E5C;
+}
+.top{
+    position: fixed;
+    top: 20%;
+    left: 28%;
+    transform: translate(-28%, -20%);
+}
+
+.bottom{
+    position: fixed;
+    top: 82%;
+    left: 71%;
+    transform: translate(-71%, -82%);
+}
+
+.quotation-mark{
+    height: 175px;
+    width: 175px;
+}
+
+.quote-box{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    height: 30%;
+    width: 35%;
+    
+    text-align: center;
+    font: bolder 36px/67px Roboto;
+    letter-spacing: 0;
+    color: #F5F5F5;
+
+    background-color: inherit;
+    border: none;
+    resize: none;
+
+
+    word-wrap: break-word;
+    overflow: hidden;
+    outline: none;
+}
+
+#pov-box{
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+
+    height: 10%;
+    width: 15%;
+    
+    font: Bold 48px/67px Roboto;
+    letter-spacing: 0;
+    color: #F5F5F5;
+    text-align: center;
+
+    background-color: inherit;
+    border: none;
+    resize: none;
+
+    word-wrap: break-word;
+    overflow: hidden;
+    outline: none;
+
+}
+
+.error-quote-box{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    height: 30%;
+    width: 35%;
+    
+    text-align: center;
+    font: bolder 48px/67px Roboto italic;
+    letter-spacing: 0;
+    color: #F5F5F5;
+
+    background-color: inherit;
+    border: none;
+    resize: none;
+
+
+    word-wrap: break-word;
+    overflow: hidden;
+    outline: none;
+}
+
+
+.btn{
+    position: fixed;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -80%);
+
+    width: 250px;
+    height: 80px;
+
+    text-align: center;
+    font: 200 36px/67px Roboto;
+    letter-spacing: 0;
+    color: #F5F5F5;
+    background: #F2D60F 0% 0% no-repeat padding-box;
+    border-radius: 16px;
+}
+
+.btn:active{
+    cursor: wait;
+}

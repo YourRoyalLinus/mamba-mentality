@@ -1,0 +1,13 @@
+<div class="content">
+    <h1 class="title">Mamba Mentality</h1>
+    <img class="quotation-mark top" src="assets/images/TOP-LEFT-MARK.png" alt="TOP-LEFT-MARK">
+    <textarea [ngClass]="{
+        'quote-box': !error,
+        'error-quote-box': error
+    }">{{ quoteBox }}</textarea>
+    <textarea class="pov" id="pov-box">~ {{ quotePov }}</textarea>
+    <img class="quotation-mark bottom" src="assets/images/BOTTOM-RIGHT-MARK.png" alt="BOTTOM-RIGHT-MARK">
+    <button class="btn" (click)="GenerateNewQuote($event)">New Quote</button>
+</div>
+
+
